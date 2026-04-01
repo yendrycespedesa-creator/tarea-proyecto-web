@@ -1,4 +1,5 @@
 Integrantes del grupo:
+<<<<<<< HEAD
 Yendry Céspedes: líder
 Austin Mora: Programador
 Rosibeth López: Programador
